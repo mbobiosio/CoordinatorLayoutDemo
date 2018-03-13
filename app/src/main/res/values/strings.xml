@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoordinatorLayoutDemo</string>
+    <string name="toolbar_title">Android Development for Beginners</string>
+    <string name="information">Android is an open source and Linux-based operating system for mobile devices such as smartphones and tablet computers. Android was developed by the Open Handset Alliance, led by Google, and other companies.\n\n
+
+    This tutorial has been prepared for the beginners to help them understand basic Android programming. After studying this tutorial you will find yourself at a better equip with the knowledge of working with Coordinator Layout in Android programming from where you can take yourself to next level.</string>
+</resources>
